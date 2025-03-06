@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Junior Algorithm engineer in Stradvision
+- 🌱 I’m currently learning deep learning, computer vision and algorithm
+- 💬 Ask me about kmo6901@naver.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinju-yu)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=u_jinju)](https://velog.io/@u_jinju/)
