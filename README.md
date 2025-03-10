@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Junior Algorithm engineer in Stradvision
+- 🔭 I’m currently working as algorithm engineer in StradVision
 - 🌱 I’m currently learning deep learning, computer vision and algorithm
 - 💬 Ask me about kmo6901@naver.com
 
